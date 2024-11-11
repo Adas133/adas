@@ -431,3 +431,8 @@ footer {
     top: 10px;
     left: 14px;
 }
+
+@media only screen and (max-width: 600px) {
+    /* Styl dostosowany do urządzeń mobilnych *
+    /* Dodaj inne style, aby zapanować nad skalowaniem */
+}
