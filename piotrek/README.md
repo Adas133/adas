@@ -1,1 +1,0 @@
-# marinetboy.github.io/yObywatel
